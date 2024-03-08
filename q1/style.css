@@ -1,0 +1,23 @@
+
+.start {
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    color: rgb(169, 42, 120);
+   font-size: 9;
+   
+
+    /*top: 20px;*/
+
+}
+img{
+    float:left;
+    border-radius: 20px;
+}/**/
+.img-rounded{
+    border-radius: 200px;
+}
+.bg-grey{
+    background-color: rgb(237, 206, 206);
+}
+.obj{
+    font-size: 10;
+}
